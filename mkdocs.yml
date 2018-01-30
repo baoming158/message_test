@@ -1,0 +1,13 @@
+site_name: 消息推送平台 
+pages:
+- 架构设计: jgsj.md 
+- 系统整体设计: xtztsj.md 
+- 系统详细设计: 
+  - '背景': 'xq.md'
+  - '消息模板': 'xxmb/xxmb.md'
+  - '验证引擎': 'yzyq.md'
+  - '安全认证': '安全认证/aqrz.md'
+  - 'db设计': 'db.md'
+  - '日志格式': 'log_format.md'
+  - 'api规范': 'api.md'
+theme: readthedocs
